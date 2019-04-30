@@ -47,8 +47,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Warga Lokal",
+        "meta_descr": "Warga Lokal hadir sebagai teman merenung bagi warga Kota Surabaya untuk lebih melek dengan isu dan keadaan sekitar. \nJadilah Tuan dan Nona di kotamu sendiri.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
