@@ -1409,63 +1409,23 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/john-schnobrich-520023-unsplash-2000x1333.jpg");
 }
-.cid-rp2Od4CWch {
+.cid-rtplgNzmbR {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rp2Od4CWch .mbr-section-subtitle {
+.cid-rtplgNzmbR .mbr-text {
   color: #767676;
 }
-.cid-rp2Od4CWch .media-container-row {
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+.cid-rtplgNzmbR h4 {
+  text-align: center;
 }
-.cid-rp2Od4CWch .mbr-text {
-  color: #767676;
+.cid-rtplgNzmbR p {
+  text-align: center;
 }
-.cid-rp2Od4CWch .mbr-author-desc {
-  display: block;
-  color: #767676;
-}
-.cid-rp2Od4CWch .mbr-author-name {
-  color: #767676;
-}
-.cid-rp2Od4CWch .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-}
-.cid-rp2Od4CWch .mbr-testimonial .card-block {
-  -webkit-flex-grow: 0;
-  flex-grow: 0;
-  padding: 2.4rem 2.4rem 0 2.4rem;
-}
-.cid-rp2Od4CWch .mbr-testimonial .card-block .testimonial-photo {
-  display: inline-block;
-  width: 120px;
-  height: 120px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-}
-.cid-rp2Od4CWch .mbr-testimonial .card-block .testimonial-photo img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-.cid-rp2Od4CWch .mbr-testimonial .card-footer {
-  padding-bottom: 2.4rem;
-  border-top: 0;
-  padding-top: 1rem;
-  word-wrap: break-word;
-  word-break: break-word;
-  background: none;
-}
-@media (max-width: 300px) {
-  .cid-rp2Od4CWch .testimonial-photo {
-    width: 100% !important;
-    height: auto !important;
-  }
+.cid-rtplgNzmbR .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
 .cid-rp2RTn8ngD {
   padding-top: 90px;
@@ -1615,7 +1575,7 @@ body {
 }
 .cid-rpHcH2yQ1K {
   padding-top: 90px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #55b4d4;
   background: linear-gradient(#55b4d4, #ffffff);
 }
