@@ -1430,7 +1430,7 @@ body {
 .cid-rtpqHeaVsc {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/niko-lienata-1572284-unsplash-2000x1333.jpg");
 }
 .cid-rp2RTn8ngD {
   padding-top: 90px;
@@ -2281,13 +2281,37 @@ body {
 .cid-rp2XDBipWZ .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-rtpt3HfrzU {
+.cid-rtXBwfckiG {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #879a9f;
+  background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rtpt3HfrzU .mbr-text,
-.cid-rtpt3HfrzU blockquote {
+.cid-rtXAVbwfnA {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rtXAVbwfnA .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rtXAVbwfnA .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-rtXAVbwfnA .mbr-text {
+  color: #767676;
+  text-align: left;
+}
+.cid-rtXCIvKB4P {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rtXCIvKB4P .mbr-text,
+.cid-rtXCIvKB4P blockquote {
   color: #767676;
 }
 .cid-rp1YZEEy45 .navbar {
