@@ -523,7 +523,7 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://youtu.be/E3RoFghdLFE",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
