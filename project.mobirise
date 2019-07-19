@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Warga Lokal",
-    "currentPage": "index.html",
+    "currentPage": "orangdalam.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2133,9 +2133,9 @@
         }
       ]
     },
-    "page2.html": {
+    "orangdalam.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "#orangdalamcreative merupakan bagian satu kesatuan dari jiwa - jiwa kreatif. Sebagai agensi komunikasi pemasaran, bagi kami jiwa kreatif menjadi jantung utama dalam setiap langkah yang akan kami lakukan. Kreatif membentuk nothing menjadi something useful.",
         "title": "Orang Dalam Creative",
         "order": 2
       },
