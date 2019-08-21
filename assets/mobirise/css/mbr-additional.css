@@ -1432,6 +1432,27 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/niko-lienata-1572284-unsplash-2000x1333.jpg");
 }
+.cid-rzNzwaF1kd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rzNzwaF1kd .title {
+  margin-bottom: 2rem;
+}
+.cid-rzNzwaF1kd .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rzNzwaF1kd a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rzNzwaF1kd a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rzNzwaF1kd textarea.form-control {
+  min-height: 188px;
+}
 .cid-rwhjXx35pJ .modal-body .close {
   background: #1b1b1b;
 }
@@ -1671,8 +1692,8 @@ body {
   z-index: auto;
 }
 .cid-rp7viXJV5O {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rp7viXJV5O .mbr-section-subtitle {
